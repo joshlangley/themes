@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=MateriaYaru-compact
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=MateriaYaru-compact
+MetacityTheme=MateriaYaru-compact
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
