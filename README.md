@@ -1,2 +1,2 @@
-# themes
-All my favorite Gtk+ themes
+# My Gtk themes collection
+All my favorite Gtk+ themes in a repo.
