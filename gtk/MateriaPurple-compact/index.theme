@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=MateriaPurple-compact
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=MateriaPurple-compact
+MetacityTheme=MateriaPurple-compact
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
