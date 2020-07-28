@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg5400" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16px" width="16px" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs5402">
+  <linearGradient id="linearGradient3156" y2="14" gradientUnits="userSpaceOnUse" x2="5" gradientTransform="translate(2,1)" y1="1" x1="5">
+   <stop id="stop3806" style="stop-color:#fff" offset="0"/>
+   <stop id="stop3808" style="stop-color:#fff;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3159" y2="40" gradientUnits="userSpaceOnUse" x2="144" gradientTransform="matrix(.055556 0 0 .057143 0 -1.1429)" y1="280" x1="144">
+   <stop id="stop3864-8-6-6" style="stop-color:#f0f0f0" offset="0"/>
+   <stop id="stop3866-9-1-7" style="stop-color:#f9f9f9" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata5405">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <path id="path3029" d="m2 1h12v14h-12z" style="opacity:0.41;stroke-linejoin:round;stroke-width:2;color:#bebebe;stroke:#000;fill:none"/>
+  <path id="rect3373-6" style="color:#bebebe;fill:url(#linearGradient3159)" d="m2 1h12v14h-12z"/>
+  <path id="path3799" style="color:#bebebe;fill:url(#linearGradient3156)" d="m2 1v14h12v-14zm1 1h10v12h-10z"/>
+ </g>
+ <g id="layer2">
+  <path id="path3820" d="m7 5v4s-1.5418 0.0073-1.6995 0.0073c1.1899 1.6687 2.5269 3.7347 2.6995 3.9927l2.7-3.9927-1.7-0.0073v-4z" style="block-progression:tb;text-indent:0;color:#000000;text-transform:none;fill:#fff"/>
+  <path id="path1299" style="block-progression:tb;text-indent:0;color:#000000;text-transform:none;fill:#ccc" d="m7 4v4s-1.5418 0.0073-1.6995 0.0073c1.1899 1.6687 2.5269 3.7347 2.6995 3.9927l2.7-3.9927-1.7-0.0073v-4z"/>
+  <path id="path3047" style="opacity:.2;block-progression:tb;text-indent:0;color:#000000;text-transform:none" d="m7 4v1h2v-1zm0 4s-1.5298-0.0073-1.6875-0.0073c0.2295 0.3218 0.4253 0.7072 0.6563 1.0385 0.4837-0.0224 1.0312-0.0312 1.0312-0.0312zm2 0v1l1.0312 0.03125 0.65625-1.0386z"/>
+ </g>
+</svg>

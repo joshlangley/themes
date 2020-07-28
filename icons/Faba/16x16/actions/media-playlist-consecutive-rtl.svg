@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg5400" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16px" width="16px" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs5402">
+  <linearGradient id="linearGradient3968" gradientUnits="userSpaceOnUse" x2="8" gradientTransform="matrix(-1 0 0 1 16 0)" y1="16" x1="8">
+   <stop id="stop3823" style="stop-color:#555" offset="0"/>
+   <stop id="stop3825" style="stop-color:#666" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata5405">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <path id="path5905" style="block-progression:tb;text-indent:0;color:#bebebe;text-transform:none;fill:url(#linearGradient3968)" d="m5.5 4v1 1.5h6.5 3 0.5v0.5 2 0.5h-0.5-5.8125-3.6875v1.5 1l-0.8125-0.59375-4-3-0.53125-0.406 0.53125-0.4062 4-3 0.8125-0.5938z"/>
+  <path id="path3960" style="opacity:0.61;block-progression:tb;text-indent:0;color:#bebebe;stroke:#000;text-transform:none;fill:none" d="m5.5 4v1 1.5h6.5 3 0.5v0.5 2 0.5h-0.5-5.8125-3.6875v1.5 1l-0.8125-0.59375-4-3-0.53125-0.406 0.53125-0.4062 4-3 0.8125-0.5938z"/>
+  <path id="path3970" style="opacity:.2;block-progression:tb;text-indent:0;color:#bebebe;text-transform:none;fill:#fff" d="m5 5v1h-0.0312l-3.3126 2.5-0.6562-0.5 3.9688-3h0.0312zm10 2v1h-3-6.5-0.5v-0.5-0.5h0.5 6.5 3z"/>
+ </g>
+</svg>

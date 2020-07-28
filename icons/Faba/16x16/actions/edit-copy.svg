@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg5400" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16px" width="16px" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs5402">
+  <linearGradient id="linearGradient3804">
+   <stop id="stop3806" style="stop-color:#fff" offset="0"/>
+   <stop id="stop3808" style="stop-color:#fff;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="outerBackgroundGradient-4">
+   <stop id="stop3864-8-6-6" style="stop-color:#f0f0f0" offset="0"/>
+   <stop id="stop3866-9-1-7" style="stop-color:#f9f9f9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3825" y2="40" xlink:href="#outerBackgroundGradient-4" gradientUnits="userSpaceOnUse" x2="144" gradientTransform="matrix(.055556 0 0 .057143 -2 -2.1429)" y1="280" x1="144"/>
+  <linearGradient id="linearGradient3827" y2="14" xlink:href="#linearGradient3804" gradientUnits="userSpaceOnUse" x2="5" y1="1" x1="5"/>
+ </defs>
+ <metadata id="metadata5405">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <g id="g3812" transform="translate(1)">
+   <path id="path3029" style="opacity:0.41;stroke-linejoin:round;stroke-width:2;color:#bebebe;stroke:#000;fill:none" d="m1 1h10v12h-10z"/>
+   <path id="rect3373-6" d="m1 1h10v12h-10z" style="color:#bebebe;fill:url(#linearGradient3825)"/>
+   <path id="path3799" style="color:#bebebe;fill:url(#linearGradient3827)" d="m1 1v12h10v-12h-10zm1 1h8v10h-8v-10z"/>
+  </g>
+  <g id="g3817" transform="translate(3,2)">
+   <path id="path3819" d="m1 1h10v12h-10z" style="opacity:0.41;stroke-linejoin:round;stroke-width:2;color:#bebebe;stroke:#000;fill:none"/>
+   <path id="path3821" style="color:#bebebe;fill:url(#linearGradient3825)" d="m1 1h10v12h-10z"/>
+   <path id="path3823" style="color:#bebebe;fill:url(#linearGradient3827)" d="m1 1v12h10v-12h-10zm1 1h8v10h-8v-10z"/>
+  </g>
+ </g>
+</svg>

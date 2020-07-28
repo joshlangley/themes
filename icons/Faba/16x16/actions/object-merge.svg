@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg3850" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16px" width="16px" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs3852">
+  <linearGradient id="linearGradient4721" gradientUnits="userSpaceOnUse" x2="8" y1="16" x1="8">
+   <stop id="stop4717" style="stop-color:#555" offset="0"/>
+   <stop id="stop4719" style="stop-color:#666" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata3855">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <path id="path2843-39-5-5" style="color:#bebebe;fill:url(#linearGradient4721)" d="m8 1.0938-0.40625 0.625-4 6l-0.5313 0.7812h0.9375 2.5v0.5s-0.00921 0.87989-0.53125 1.75c-0.5376 0.896-1.3693 1.75-3.9688 1.75h-1-0.5v0.5 2 0.5h0.5 1c3.0402 0 4.905-1.2912 6-2.7188 1.095 1.428 2.96 2.719 6 2.719h1 0.5v-0.5-2-0.5h-0.5-1c-2.5995 0-3.4312-0.85415-3.9688-1.75-0.5218-0.8701-0.531-1.75-0.531-1.75v-0.5h2.5 0.9375l-0.53125-0.78125-4-6-0.4062-0.625z"/>
+  <path id="path4382" style="opacity:0.61;color:#bebebe;stroke:#000;fill:none" d="m8 1.0938-0.40625 0.625-4 6l-0.5313 0.7812h0.9375 2.5v0.5s-0.00921 0.87989-0.53125 1.75c-0.5376 0.896-1.3693 1.75-3.9688 1.75h-1-0.5v0.5 2 0.5h0.5 1c3.0402 0 4.905-1.2912 6-2.7188 1.095 1.428 2.96 2.719 6 2.719h1 0.5v-0.5-2-0.5h-0.5-1c-2.5995 0-3.4312-0.85415-3.9688-1.75-0.5218-0.8701-0.531-1.75-0.531-1.75v-0.5h2.5 0.9375l-0.53125-0.78125-4-6-0.4062-0.625z"/>
+  <path id="path4384" style="opacity:.2;color:#bebebe;fill:#fff" d="m8 2l-4 6h0.6562l3.3438-5 3.344 5h0.656l-4-6zm-1 7s0.0035 1.005-0.5938 2c-0.2912 0.485-0.7111 1.029-1.4062 1.406s-1.6455 0.594-3 0.594h-1v1h1c1.3545 0 2.3049-0.217 3-0.594s1.115-0.921 1.4062-1.406c0.5973-0.995 0.5938-2 0.5938-2v-0.5-0.5zm2 0v0.5 0.5s-0.0035 1.005 0.5938 2c0.2912 0.485 0.7112 1.029 1.4062 1.406s1.645 0.594 3 0.594h1v-1h-1c-1.355 0-2.305-0.217-3-0.594s-1.115-0.921-1.4062-1.406c-0.5973-0.995-0.5938-2-0.5938-2z"/>
+ </g>
+</svg>

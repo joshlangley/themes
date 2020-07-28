@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 256 256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="100%"
+   height="100%"
+   sodipodi:docname="queue.svg">
+  <metadata
+     id="metadata39">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="644"
+     inkscape:window-height="496"
+     id="namedview37"
+     showgrid="false"
+     inkscape:zoom="0.921875"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g11" />
+  <defs
+     id="defs4">
+    <path
+       id="0"
+       d="m 10.977 7.636 c 0 1.987 -1.612 3.599 -3.599 3.599 -1.987 0 -3.599 -1.612 -3.599 -3.599 0 -1.987 1.612 -3.599 3.599 -3.599 1.987 0 3.599 1.612 3.599 3.599 z"
+       style="fill:#ff4500;stroke:#fff;fill-rule:evenodd;stroke-linejoin:round;stroke-width:3.897" />
+  </defs>
+  <g
+     style="stroke:#fff"
+     id="g7">
+    <path
+       d="M 229.63,195.84 C 321.68,64.91 151.682,-67.76 43.24,38.93 -58.93,139.44 35.791,295.61 162.93,246.79 c 26.526,-10.185 49.802,-26.914 66.7,-50.948 z"
+       style="fill:#fff;color:#000"
+       id="path9" />
+    <g
+       transform="matrix(2.95233 0 0 2.88802 45.02 40.35)"
+       style="stroke:#ff4500"
+       id="g11">
+      <path
+         d="m 7.613 54.906 v -31.67"
+         transform="matrix(0.70011 0 0 0.70011 10.677 -3)"
+         style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:7.142"
+         id="path13" />
+      <path
+         d="m 44.682 43.39 v -30.591"
+         transform="matrix(0.70011 0 0 0.70011 10.677 -3)"
+         id="1"
+         style="fill:none;stroke:#ff4500;stroke-linecap:round;stroke-linejoin:round;stroke-width:7.142" />
+      <path
+         d="m 37.789 22.03 c 6.298 10.797 16.195 8.817 16.195 8.817"
+         transform="matrix(0.80182 0 0 0.80182 12.03 -10.958)"
+         id="2"
+         style="fill:none;stroke:#ff4500;stroke-linecap:round;stroke-linejoin:round;stroke-width:3.897" />
+      <path
+         d="m 7.878 23.67 c 34.55 18.354 37.16 -10.871 37.16 -10.871"
+         transform="matrix(0.70011 0 0 0.70011 10.677 -3)"
+         style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:4.464"
+         id="path17" />
+      <use
+         transform="matrix(0.80182 0 0 0.80182 10.01 7.222)"
+         xlink:href="#0"
+         id="use19"
+         style="stroke:#ff4500;fill:#ffe4c4" />
+      <use
+         transform="matrix(0.80182 0 0 0.80182 35.834 1.451)"
+         xlink:href="#0"
+         id="use21"
+         style="stroke:#ff4500;fill:#ffe4c4" />
+      <path
+         d="m 7.658 58.21 v -22.17"
+         style="fill:#ff4500;stroke-linecap:round;stroke-linejoin:round;stroke-width:5"
+         id="path23" />
+      <g
+         transform="translate(-8.35 18.936)"
+         id="g25">
+        <use
+           xlink:href="#1"
+           id="use27" />
+        <use
+           xlink:href="#2"
+           id="use29" />
+      </g>
+      <path
+         d="m 7.878 24.881 c 34.55 18.354 37.16 -12.08 37.16 -12.08"
+         transform="matrix(0.70011 0 0 0.70011 2.327 15.935)"
+         style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:4.464"
+         id="path31" />
+      <use
+         transform="matrix(0.80182 0 0 0.80182 1.658 26.16)"
+         xlink:href="#0"
+         id="use33"
+         style="stroke:#ff4500;fill:#ffe4c4" />
+      <use
+         transform="matrix(0.80182 0 0 0.80182 27.484 20.387)"
+         xlink:href="#0"
+         id="use35"
+         style="stroke:#ff4500;fill:#ffdab9" />
+    </g>
+  </g>
+</svg>

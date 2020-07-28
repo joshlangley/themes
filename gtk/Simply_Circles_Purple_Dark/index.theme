@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Simply Circles Purple Dark
+Comment=GTK Theme to use with Simply Circles Icon Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Simply Circles Purple Dark
+GtkTheme=Simply_Circles_Purple_Dark
+MetacityTheme=Simply_Circles_Purple_Dark
+IconTheme=Simply-Purple-Circles
+CursorTheme=DMZ-Black
+ButtonLayout=:minimize,maximize,close

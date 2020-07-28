@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg3495" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs3497">
+  <linearGradient id="linearGradient3859" y2="11" gradientUnits="userSpaceOnUse" x2="19.5" gradientTransform="matrix(0,1,-1,0,23,25)" y1="11" x1="2.5">
+   <stop id="stop3823" style="stop-color:#f7f7f7" offset="0"/>
+   <stop id="stop3825" style="stop-color:#ddd" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3870" y2="42" gradientUnits="userSpaceOnUse" x2="25" gradientTransform="translate(-8,1)" y1="45" x1="25">
+   <stop id="stop3962" style="stop-opacity:0" offset="0"/>
+   <stop id="stop3970" offset=".5"/>
+   <stop id="stop3964" style="stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient3873" gradientUnits="userSpaceOnUse" cy="43.5" cx="9" gradientTransform="matrix(1 0 0 .75 -4 11.875)" r="2">
+   <stop id="stop3946" offset="0"/>
+   <stop id="stop3948" style="stop-opacity:0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient3876" gradientUnits="userSpaceOnUse" cy="43.5" cx="40" gradientTransform="matrix(1 0 0 .75 -21 11.875)" r="2">
+   <stop id="stop3954" offset="0"/>
+   <stop id="stop3956" style="stop-opacity:0" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient3928" y2="22" gradientUnits="userSpaceOnUse" x2="12" y1="-2" x1="12">
+   <stop id="stop3924" style="stop-color:#a0a0a0" offset="0"/>
+   <stop id="stop3926" style="stop-color:#cacaca" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata3500">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0,-24)">
+  <g id="g3878" style="opacity:.3">
+   <path id="rect3940" d="m19 43v3h0.5c0.831 0 1.5-0.669 1.5-1.5s-0.669-1.5-1.5-1.5h-0.5z" style="opacity:1;fill:url(#radialGradient3876)"/>
+   <path id="rect3942" d="m4.4062 43c-0.779 0-1.4062 0.627-1.4062 1.406v0.1875c0 0.779 0.6272 1.406 1.4062 1.406h0.5938v-3h-0.5938z" style="opacity:1;fill:url(#radialGradient3873)"/>
+   <path id="rect3938" d="m5 43h14v3h-14z" style="opacity:1;fill:url(#linearGradient3870)"/>
+  </g>
+  <path id="rect2998" style="color:#000000;fill:url(#linearGradient3859)" d="m20.5 30c0-1.3764-1.1236-2.5-2.5-2.5h-12c-1.3764 0-2.5 1.1236-2.5 2.5v12c0 1.3764 1.1236 2.5 2.5 2.5h12c1.3764 0 2.5-1.1236 2.5-2.5v-12z"/>
+  <path id="path3018" style="color:#000000;fill:none" d="m6 28c-1.108 0-2 0.892-2 2v12c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-12c0-1.108-0.892-2-2-2z"/>
+  <path id="path3861" d="m20.5 30c0-1.3764-1.1236-2.5-2.5-2.5h-12c-1.3764 0-2.5 1.1236-2.5 2.5v12c0 1.3764 1.1236 2.5 2.5 2.5h12c1.3764 0 2.5-1.1236 2.5-2.5v-12z" style="opacity:0.41;color:#000000;stroke:#000;fill:none"/>
+ </g>
+ <g id="layer2" transform="translate(0,2)">
+  <path id="path3896" d="m12 4.9375c-2.216 0-4 1.8216-4 4.0625v1h-1v2 2 3h1 8 1v-3-2-2l-1 0.000001v-1c0-2.24-1.784-4.0625-4-4.0625zm0 2c1.108 0 2 0.88472 2 2v1.0625h-4v-1.0625c0-1.1153 0.892-2 2-2z" style="opacity:.4;color:#000000;fill:#fff"/>
+  <path id="path5739" style="color:#000000;fill:url(#linearGradient3928)" d="m12 3.9375c-2.216 0-4 1.8216-4 4.0625v1h-1v2 2 3h1 8 1v-3-2-2h-1v-1c0-2.24-1.784-4.0625-4-4.0625zm0 2c1.108 0 2 0.88472 2 2v1.0625h-4v-1.0625c0-1.1153 0.892-2 2-2z"/>
+  <path id="path3900" style="opacity:.1;color:#000000" d="m12 5.9375c-2.216 0-4 1.8216-4 4.0625v1c0-2.2409 1.784-4.0625 4-4.0625s4 1.8225 4 4.0625v-1c0-2.24-1.784-4.0625-4-4.0625zm4 5.0625v1h1v-1h-1zm-8 0h-1v1h1v-1zm2 0v1h4v-1h-4z" transform="translate(0,-2)"/>
+ </g>
+</svg>

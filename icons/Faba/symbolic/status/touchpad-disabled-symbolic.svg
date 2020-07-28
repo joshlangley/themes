@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Moka Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Moka Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" style="color-interpolation-filters:sRGB">
+   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g id="layer9" transform="translate(-341 268)">
+  <rect id="rect23847-0-7" style="fill:none" transform="rotate(90)" height="16" width="16" y="-357" x="-268"/>
+  <path id="path23849-6-5" style="opacity:.35;fill:#bebebe" d="m342.5-266c-1.5 0-1.5 1.5-1.5 1.5v9s0 1.5 1.5 1.5h8.75c0.084-0.15845 0.17984-0.30484 0.3125-0.4375l0.0625-0.0625-0.0625-0.0625c-0.39113-0.39113-0.5625-0.91924-0.5625-1.4375h-2v-2h2 2 1v0.25c0.15845 0.084 0.30484 0.17984 0.4375 0.3125l0.0625 0.0625 0.0625-0.0625c0.39113-0.39113 0.91924-0.5625 1.4375-0.5625v-6.5c0-1.5-1.5-1.5-1.5-1.5h-12zm0.5 2h11v5h-11v-5zm0 6h5v2h-5v-2z"/>
+  <path id="path2987-7-9-8-5-1-5" style="enable-background:new;fill:#bebebe" d="m352-257v1c0 0.27614 0.10029 0.53779 0.28125 0.71875l0.78125 0.78125-0.78125 0.78125c-0.18096 0.18096-0.28125 0.44261-0.28125 0.71875v1h1c0.27614 0 0.53779-0.10029 0.71875-0.28125l0.78125-0.78125 0.78125 0.78125c0.18096 0.18096 0.44261 0.28125 0.71875 0.28125h1v-1c0-0.27614-0.10029-0.53779-0.28125-0.71875l-0.78125-0.78125 0.78125-0.78125c0.18096-0.18096 0.28125-0.44261 0.28125-0.71875v-1h-1c-0.27614 0-0.53779 0.10029-0.71875 0.28125l-0.78125 0.78125-0.78125-0.78125c-0.18096-0.18096-0.44261-0.28125-0.71875-0.28125h-1z"/>
+ </g>
+</svg>

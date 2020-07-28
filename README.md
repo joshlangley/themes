@@ -28,7 +28,7 @@ Plasma: https://www.pling.com/p/1320469/
 Pling Store: https://www.pling.com/search/projectSearchText/Neon knights
 
 Moka Icons
-sudo add-apt-repository ppa:moka/daily
+sudo add-apt-repository ppa:snwh/ppa #ppa:moka/daily
 sudo apt-get update
 sudo apt-get install moka-icon-theme
 
@@ -69,7 +69,7 @@ ubuntu-wallpapers-artful    ubuntu-wallpapers-maverick  ubuntu-wallpapers-utopic
 ubuntu-wallpapers-bionic    ubuntu-wallpapers-natty     ubuntu-wallpapers-vivid   
 ubuntu-wallpapers-cosmic    ubuntu-wallpapers-oneiric   ubuntu-wallpapers-wily    
 ubuntu-wallpapers-disco     ubuntu-wallpapers-precise   ubuntu-wallpapers-xenial  
-ubuntu-wallpapers-eoan      ubuntu-wallpapers-quantal   ubuntu-wallpapers-yakkety 
+ubuntu-wallpapers-eoan      ubuntu-wallpapers-quantal   ubuntu-wallpapers-yakkety
 ubuntu-wallpapers-focal     ubuntu-wallpapers-raring    ubuntu-wallpapers-zesty   
 ubuntu-wallpapers-karmic    ubuntu-wallpapers-saucy
 

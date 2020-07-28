@@ -1,0 +1,14 @@
+[Icon Theme]
+Name=Oranchelo-beka
+Directories=places/scalable
+Inherits=Oranchelo
+
+
+[places/scalable]
+Size=48
+Context=Places
+Type=Scalable
+MinSize=22
+MaxSize=512
+
+

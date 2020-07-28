@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg3495" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs3497">
+  <linearGradient id="linearGradient3821">
+   <stop id="stop3823" style="stop-color:#555" offset="0"/>
+   <stop id="stop3825" style="stop-color:#666" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3233" xlink:href="#linearGradient3821" gradientUnits="userSpaceOnUse" x2="12" gradientTransform="translate(1,33)" y1="22" x1="12"/>
+  <linearGradient id="linearGradient3247" xlink:href="#linearGradient3821" gradientUnits="userSpaceOnUse" x2="12" gradientTransform="translate(1,28)" y1="22" x1="12"/>
+  <linearGradient id="linearGradient3261" xlink:href="#linearGradient3821" gradientUnits="userSpaceOnUse" x2="12" gradientTransform="translate(1,23)" y1="22" x1="12"/>
+  <linearGradient id="linearGradient3275" xlink:href="#linearGradient3821" gradientUnits="userSpaceOnUse" x2="12" gradientTransform="translate(1,18)" y1="22" x1="12"/>
+ </defs>
+ <metadata id="metadata3500">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0,-24)">
+  <path id="rect3816" style="fill:url(#linearGradient3233)" d="m2.5 41.5v0.5 2 0.5h0.5 14 0.5v-0.5-2-0.5h-0.5-14z"/>
+  <path id="path3833" d="m2.5 41.5v0.5 2 0.5h0.5 14 0.5v-0.5-2-0.5h-0.5-14z" style="opacity:0.61;stroke:#000;fill:none"/>
+  <path id="path3835" style="opacity:.2;fill:#fff" d="m3 42v1h14v-1z"/>
+  <path id="path3067" style="fill:url(#linearGradient3247)" d="m2.5 36.5v0.5 2 0.5h0.5 16 0.5v-0.5-2-0.5h-0.5-16z"/>
+  <path id="path3069" style="opacity:0.61;stroke:#000;fill:none" d="m2.5 36.5v0.5 2 0.5h0.5 16 0.5v-0.5-2-0.5h-0.5-16z"/>
+  <path id="path3071" style="opacity:.2;fill:#fff" d="m3 37v1h16v-1z"/>
+  <path id="path3091" style="fill:url(#linearGradient3261)" d="m2.5 31.5v0.5 2 0.5h0.5 18 0.5v-0.5-2-0.5h-0.5-18z"/>
+  <path id="path3093" d="m2.5 31.5v0.5 2 0.5h0.5 18 0.5v-0.5-2-0.5h-0.5-18z" style="opacity:0.61;stroke:#000;fill:none"/>
+  <path id="path3095" style="opacity:.2;fill:#fff" d="m3 32v1h18v-1z"/>
+  <path id="path3115" style="fill:url(#linearGradient3275)" d="m2.5 26.5v0.5 2 0.5h0.5 12 0.5v-0.5-2-0.5h-0.5-12z"/>
+  <path id="path3117" style="opacity:0.61;stroke:#000;fill:none" d="m2.5 26.5v0.5 2 0.5h0.5 12 0.5v-0.5-2-0.5h-0.5-12z"/>
+  <path id="path3119" style="opacity:.2;fill:#fff" d="m3 27v1h12v-1z"/>
+ </g>
+</svg>

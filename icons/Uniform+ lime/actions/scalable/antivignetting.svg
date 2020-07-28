@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="labplot-xy-plot-two-axes-centered-origin.svg"
+   height="100%"
+   width="100%"
+   inkscape:version="0.48.4 r9939"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 256 256">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="698"
+     inkscape:window-height="774"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.98901497"
+     inkscape:cx="129.94642"
+     inkscape:cy="127.17624"
+     inkscape:window-x="580"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8">
+    <radialGradient
+       id="radialGradient4475"
+       gradientUnits="userSpaceOnUse"
+       cy="753.93"
+       cx="555.57"
+       gradientTransform="matrix(0.875,0,0,0.875,66.446,97.242)"
+       r="8">
+      <stop
+         id="stop4471"
+         stop-opacity=".2"
+         offset="0" />
+      <stop
+         id="stop4473"
+         stop-opacity=".5"
+         offset="1" />
+    </radialGradient>
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+    <radialGradient
+       id="radialGradient4475-764"
+       gradientUnits="userSpaceOnUse"
+       cy="753.93"
+       cx="555.57"
+       gradientTransform="matrix(0.875,0,0,0.875,66.446,97.242)"
+       r="8">
+      <stop
+         id="stop4129"
+         stop-opacity=".2"
+         offset="0" />
+      <stop
+         id="stop4131"
+         stop-opacity=".5"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient4475-764-506"
+       gradientUnits="userSpaceOnUse"
+       cy="753.93"
+       cx="555.57"
+       gradientTransform="matrix(0.875,0,0,0.875,66.446,97.242)"
+       r="8">
+      <stop
+         id="stop4161"
+         stop-opacity=".2"
+         offset="0" />
+      <stop
+         id="stop4163"
+         stop-opacity=".5"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient4475-764-506-123"
+       gradientUnits="userSpaceOnUse"
+       cy="753.93"
+       cx="555.57"
+       gradientTransform="matrix(0.875,0,0,0.875,66.446,97.242)"
+       r="8">
+      <stop
+         id="stop4198"
+         stop-opacity=".2"
+         offset="0" />
+      <stop
+         id="stop4200"
+         stop-opacity=".5"
+         offset="1" />
+    </radialGradient>
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     id="path4"
+     style="color:#000000;fill:#9acd32"
+     d="m 22.010839,203.4688 c 48.541,88.14 200.630001,53.931 226.360001,-18.64 30.66,-86.449996 -49.14,-250.629996 -184.300001,-154.449996 -45.527,33.585 -90.6,84.948996 -42.05,173.089996 z" />
+  <g
+     id="layer1"
+     transform="matrix(5.3159442,5.187685,-5.1775217,5.1615085,1111.0117,-6636.7702)"
+     style="fill:#ffffff">
+    <rect
+       style="fill:#ffffff"
+       id="rect4467"
+       height="14"
+       width="14"
+       y="749.92999"
+       x="545.57001" />
+  </g>
+</svg>

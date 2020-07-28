@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 256 256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="folder-pictures.svg">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="910"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="0.921875"
+     inkscape:cx="-111.18644"
+     inkscape:cy="128"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g22" />
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath6">
+      <path
+         d="m 148 97 h 77.63 v 24 h -77.62 Z"
+         id="path8" />
+    </clipPath>
+    <clipPath
+       id="clipPath10">
+      <path
+         d="m 171 132 h 54.625 v 24 h -54.625 Z"
+         id="path12" />
+    </clipPath>
+    <clipPath
+       id="clipPath14">
+      <path
+         d="m 74 56.824 h 129 v 139.69 h -129 Z"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       id="clipPath18">
+      <path
+         d="m 27.707 56.824 h 82.29 v 139.69 h -82.29 Z"
+         id="path20" />
+    </clipPath>
+  </defs>
+  <g
+     transform="translate(0 -796.36)"
+     style="color:#000"
+     id="g22">
+    <path
+       d="m 60.17 822.74 c 130.93 -92.05 263.6 77.948 156.91 186.39 -100.51 102.17 -256.68 7.449 -207.86 -119.69 10.185 -26.526 26.914 -49.802 50.948 -66.7 z"
+       style="fill:#a9a9a9;fill-opacity:1"
+       id="path24" />
+    <path
+       d="m 134.91 862.87 c -0.546 0.063 -1.08 0.221 -1.588 0.495 l -42.885 23.288 h 33.619 l 6.883 -3.716 l 2.382 3.716 h 19.325 l -13.501 -21.801 c -0.88 -1.426 -2.597 -2.174 -4.236 -1.982 z m -58.768 31.463 l -23.295 12.635 c -2.032 1.098 -2.762 3.549 -1.588 5.45 l 24.884 40.13 v -31.463 l -3.971 -6.441 l 3.971 -2.23 v -18.09 z m 12.707 0.247 c -2.346 0 -4.236 1.768 -4.236 3.964 v 87.21 c 0 2.196 1.889 3.964 4.236 3.964 h 93.18 c 2.346 0 4.236 -1.768 4.236 -3.964 v -87.21 c 0 -2.196 -1.889 -3.964 -4.236 -3.964 h -93.18 z m 12.707 15.855 h 67.768 v 55.49 h -67.768 v -55.49 z"
+       style="fill:#fff"
+       id="path26" />
+  </g>
+</svg>

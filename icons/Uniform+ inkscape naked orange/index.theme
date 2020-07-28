@@ -1,0 +1,35 @@
+[Icon Theme]
+Name=Uniform+ inkscape naked orange
+Comment=ZMA 30.12.2015 zma.05@mail.ru. GPL.
+Version=0.1
+Inherits=Uniform+,gnome,hicolor,oxygen
+Example=draw-spiral
+
+Directories=actions/16,actions/22,actions/24,actions/32,actions/scalable
+
+[actions/16]
+Size=16
+Context=Actions
+Type=fixed
+
+[actions/22]
+Size=22
+Context=Actions
+Type=fixed
+
+[actions/24]
+Size=24
+Context=Actions
+Type=fixed
+
+[actions/32]
+Size=32
+Context=Actions
+Type=fixed
+
+[actions/scalable]
+Size=48
+Context=Actions
+Type=Scalable
+MinSize=8
+MaxSize=48

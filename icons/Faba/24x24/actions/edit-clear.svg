@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg3495" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs3497">
+  <linearGradient id="linearGradient3810" y2="-9.4845" gradientUnits="userSpaceOnUse" x2="-4.8218" gradientTransform="matrix(.78328 0 0 -.78328 16.777 39.571)" y1="18.603" x1="-4.8218">
+   <stop id="stop3762" style="stop-color:#666" offset="0"/>
+   <stop id="stop3764" style="stop-color:#555" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata3500">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0,-24)">
+  <path id="path4623" style="fill:url(#linearGradient3810)" d="m9.25 29.5-6.5 6.5312 6.5 6.4688h12.25v-13h-12.25z"/>
+  <path id="path3779" style="opacity:0.61;stroke:#000;fill:none" d="m9.25 29.5-6.5 6.5312 6.5 6.4688h12.25v-13h-12.25z"/>
+  <path id="path3781" style="opacity:.2;fill:#fff" d="m9.4375 30-6 6.0312 0.5 0.5l5.5-5.531h11.562v-1h-11.562z"/>
+ </g>
+ <g id="layer2" transform="translate(0,2)">
+  <path id="path3797" d="m12 6v1c0 0.27614 0.10029 0.53778 0.28125 0.71875l1.282 1.2812-1.282 1.281c-0.181 0.181-0.281 0.443-0.281 0.719v1h1c0.27614 0 0.53779-0.10028 0.71875-0.28125l1.2813-1.2812 1.2812 1.2812c0.18 0.181 0.442 0.281 0.718 0.281h1v-1s-0.10029-0.53778-0.28125-0.71875l-1.281-1.281 1.281-1.2812c0.181-0.181 0.296-0.4431 0.281-0.7188v-1h-1c-0.276 0-0.538 0.1003-0.719 0.2812l-1.281 1.2813-1.281-1.2813c-0.181-0.1809-0.443-0.265-0.719-0.2812z" style="opacity:.3;color:#000000;enable-background:new"/>
+  <path id="path5757" style="color:#000000;enable-background:new;fill:#fff" d="m12 7v1c0 0.27614 0.10029 0.53778 0.28125 0.71875l1.282 1.2812-1.282 1.281c-0.181 0.181-0.281 0.443-0.281 0.719v1h1c0.27614 0 0.53779-0.10028 0.71875-0.28125l1.2813-1.2812 1.2812 1.2812c0.18 0.181 0.442 0.281 0.718 0.281h1v-1s-0.10029-0.53778-0.28125-0.71875l-1.281-1.281 1.281-1.2812c0.181-0.181 0.296-0.4431 0.281-0.7188v-1h-1c-0.276 0-0.538 0.1003-0.719 0.2812l-1.281 1.2813-1.281-1.2813c-0.181-0.1809-0.443-0.265-0.719-0.2812z"/>
+ </g>
+</svg>

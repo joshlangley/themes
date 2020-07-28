@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg3495" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs3497">
+  <linearGradient id="linearGradient3791" y2="-2" gradientUnits="userSpaceOnUse" x2="12" gradientTransform="translate(1,25)" y1="22" x1="12">
+   <stop id="stop3787" style="stop-color:#555" offset="0"/>
+   <stop id="stop3789" style="stop-color:#666" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata3500">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0,-24)">
+  <path id="path5972" style="enable-background:new;fill:url(#linearGradient3791)" d="m16 25.844-0.406 0.594-4.344 6.312l-0.53125 0.78125h0.9375 1.8438v5.4688 0.5h0.5 4 0.5v-0.5-5.4688h1.875 0.96875l-0.563-0.781-4.375-6.312-0.406-0.594zm-10.5 6.656v0.5 5.4688h-1.8438-0.9375l0.5313 0.781 4.3438 6.312 0.4062 0.594 0.4062-0.594 4.375-6.3125 0.5625-0.78125h-0.96875-1.875v-5.4688-0.5h-0.5-4-0.5z"/>
+  <path id="path3771" style="opacity:0.61;stroke:#000;enable-background:new;fill:none" d="m16 25.844-0.406 0.594-4.344 6.312l-0.53125 0.78125h0.9375 1.8438v5.4688 0.5h0.5 4 0.5v-0.5-5.4688h1.875 0.96875l-0.563-0.781-4.375-6.312-0.406-0.594zm-10.5 6.656v0.5 5.4688h-1.8438-0.9375l0.5313 0.781 4.3438 6.312 0.4062 0.594 0.4062-0.594 4.375-6.3125 0.5625-0.78125h-0.96875-1.875v-5.4688-0.5h-0.5-4-0.5z"/>
+  <path id="path3773" style="opacity:.2;enable-background:new;fill:#fff" d="m16 26.719-4.3438 6.3125h0.6875l3.6562-5.3125 3.6875 5.3125h0.6875l-4.376-6.313zm-10 6.281v1h3.8125l0.1875-0.281v-0.719h-4zm4 1.7188-0.21875 0.3125h0.21875v-0.3125zm-6.3438 4.25 0.6875 1h1.1562 0.5v-0.5-0.5h-0.5-1.8438zm6.3438 0v0.5 0.5h0.5 1.1875l0.6875-1h-1.875-0.5zm4 0v0.03125h0.28125l0.03125-0.03125h-0.3125z"/>
+ </g>
+</svg>

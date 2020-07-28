@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg5400" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16px" width="16px" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs5402">
+  <linearGradient id="linearGradient4241" gradientUnits="userSpaceOnUse" x2="8" y1="16" x1="8">
+   <stop id="stop3823" style="stop-color:#555" offset="0"/>
+   <stop id="stop3825" style="stop-color:#666" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata5405">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <path id="path4229" style="block-progression:tb;text-indent:0;color:#000000;text-transform:none;fill:url(#linearGradient4241)" d="m1.2656 9.7812 0.375-0.34375 6-6 0.0625-0.0625c-0.6705-0.1487-1.2187-0.6625-1.2187-1.3749 0-0.8225 0.6775-1.5 1.5-1.5s1.5 0.6775 1.5 1.5c0 0.71239-0.54825 1.2262-1.2188 1.375l0.0625 0.0625 6.0312 6 0.375 0.34375-0.375 0.34375-1.375 1.4062-0.34375 0.375-0.34375-0.375-2.7814-2.8122-0.0312 6.2812v0.5h-0.5-2-0.5v-0.5l0.03125-6.2812-2.8125 2.8125-0.34375 0.375-0.34375-0.375-1.375-1.4062z"/>
+  <path id="path4243" d="m1.2656 9.7812 0.375-0.34375 6-6 0.0625-0.0625c-0.6705-0.1487-1.2187-0.6625-1.2187-1.3749 0-0.8225 0.6775-1.5 1.5-1.5s1.5 0.6775 1.5 1.5c0 0.71239-0.54825 1.2262-1.2188 1.375l0.0625 0.0625 6.0312 6 0.375 0.34375-0.375 0.34375-1.375 1.4062-0.34375 0.375-0.34375-0.375-2.7814-2.8122-0.0312 6.2812v0.5h-0.5-2-0.5v-0.5l0.03125-6.2812-2.8125 2.8125-0.34375 0.375-0.34375-0.375-1.375-1.4062z" style="stroke-linejoin:round;opacity:0.61;block-progression:tb;text-indent:0;color:#000000;stroke:#000;text-transform:none;fill:none"/>
+  <path id="path4286" style="opacity:.2;block-progression:tb;text-indent:0;color:#000000;text-transform:none;fill:#fff" d="m8 1c-0.5479 0-1 0.4521-1 1 0 0.1946 0.0506 0.3628 0.1562 0.5 0.1756-0.292 0.4817-0.5 0.8438-0.5 0.3473 0 0.6329 0.1963 0.8125 0.4688 0.104-0.1342 0.1875-0.2819 0.1875-0.4688 0-0.5479-0.4521-1-1-1zm-0.1562 2.9062l-5.8438 5.875 0.5 0.4998 5.4688-5.4998h0.0312l5.5 5.4998 0.5-0.4998-5.9062-5.875a0.50005 0.50005 0 0 0 -0.0938 0.0626 0.50005 0.50005 0 0 0 -0.0312 0 0.50005 0.50005 0 0 0 -0.125 -0.0626z"/>
+ </g>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg3495" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs3497">
+  <linearGradient id="linearGradient3798" gradientUnits="userSpaceOnUse" x2="11" gradientTransform="translate(1,25)" y1="22" x1="11">
+   <stop id="stop3794" style="stop-color:#555" offset="0"/>
+   <stop id="stop3796" style="stop-color:#666" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient3047" gradientUnits="userSpaceOnUse" cy="43.5" cx="40" gradientTransform="matrix(1 0 0 .75 -21 12.875)" r="2">
+   <stop id="stop3954" offset="0"/>
+   <stop id="stop3956" style="stop-opacity:0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient3049" gradientUnits="userSpaceOnUse" cy="43.5" cx="9" gradientTransform="matrix(1 0 0 .75 -6 12.875)" r="2">
+   <stop id="stop3946" offset="0"/>
+   <stop id="stop3948" style="stop-opacity:0" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient3051" y2="42" gradientUnits="userSpaceOnUse" x2="25" gradientTransform="matrix(1.1429 0 0 1 -11.857 2)" y1="45" x1="25">
+   <stop id="stop3962" style="stop-opacity:0" offset="0"/>
+   <stop id="stop3970" offset=".5"/>
+   <stop id="stop3964" style="stop-opacity:0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata3500">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0,-24)">
+  <g id="g3042" transform="translate(1 -.5)">
+   <path id="rect3940" d="m19 44v3h0.5c0.831 0 1.5-0.669 1.5-1.5s-0.669-1.5-1.5-1.5h-0.5z" style="opacity:.2;fill:url(#radialGradient3047)"/>
+   <path id="rect3942" d="m2.4062 44c-0.779 0-1.4062 0.627-1.4062 1.406v0.1875c0 0.779 0.6272 1.406 1.4062 1.406h0.5938v-3h-0.5938z" style="opacity:.2;fill:url(#radialGradient3049)"/>
+   <path id="rect3938" d="m3 44h16v3h-16z" style="opacity:.2;fill:url(#linearGradient3051)"/>
+  </g>
+  <path id="rect2998" style="color:#000000;fill:url(#linearGradient3798)" d="m3.5 27.5v0.5 16 0.5h0.5 16 0.5v-0.5-16-0.5h-0.5-16-0.5z"/>
+  <path id="path3770" style="opacity:0.61;color:#000000;stroke:#000;fill:none" d="m3.5 27.5v0.5 16 0.5h0.5 16 0.5v-0.5-16-0.5h-0.5-16-0.5z"/>
+  <path id="path3772" style="opacity:.2;color:#000000;fill:#fff" d="m4 28v1h16v-1h-16z"/>
+ </g>
+</svg>

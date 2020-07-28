@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 256 256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="100%"
+   height="100%"
+   sodipodi:docname="spread.svg">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12">
+    <clipPath
+       id="clipPath3709">
+      <rect
+         id="rect3711"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3705">
+      <rect
+         id="rect3707"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3701">
+      <rect
+         id="rect3703"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3697">
+      <rect
+         id="rect3699"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3693">
+      <rect
+         id="rect3695"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3689">
+      <rect
+         id="rect3691"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3685">
+      <rect
+         id="rect3687"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3681">
+      <rect
+         id="rect3683"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3677">
+      <rect
+         id="rect3679"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3673">
+      <rect
+         id="rect3675"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3669">
+      <rect
+         id="rect3671"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3665">
+      <rect
+         id="rect3667"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3661">
+      <rect
+         id="rect3663"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3657">
+      <rect
+         id="rect3659"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3653"
+       style="clip-path:url(#9)">
+      <use
+         id="use3655"
+         xlink:href="#7" />
+    </clipPath>
+    <clipPath
+       id="clipPath3649"
+       style="clip-path:url(#9)">
+      <use
+         id="use3651"
+         xlink:href="#7" />
+    </clipPath>
+    <clipPath
+       id="clipPath3645">
+      <rect
+         id="rect3647"
+         style="fill:#f0f"
+         y="6"
+         x="6"
+         rx="6"
+         height="84"
+         width="84" />
+    </clipPath>
+    <clipPath
+       id="9">
+      <use
+         id="use3643"
+         xlink:href="#6" />
+    </clipPath>
+    <clipPath
+       id="clipPath3638">
+      <rect
+         id="rect3640"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3634"
+       style="clip-path:url(#9)">
+      <use
+         id="use3636"
+         xlink:href="#4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3630">
+      <rect
+         id="rect3632"
+         style="fill:#fff"
+         y="6"
+         x="6"
+         rx="6"
+         height="84"
+         width="84" />
+    </clipPath>
+    <clipPath
+       id="clipPath3626">
+      <use
+         id="use3628"
+         xlink:href="#5" />
+    </clipPath>
+    <clipPath
+       id="clipPath3622">
+      <rect
+         id="rect3624"
+         style="fill:#f0f"
+         width="84"
+         height="84"
+         rx="6"
+         x="6"
+         y="6" />
+    </clipPath>
+    <clipPath
+       id="clipPath3618"
+       style="clip-path:url(#9)">
+      <use
+         id="use3620"
+         xlink:href="#4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3614">
+      <rect
+         id="rect3616"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3610">
+      <rect
+         id="rect3612"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3606">
+      <rect
+         id="rect3608"
+         style="fill:#fff"
+         width="84"
+         height="84"
+         rx="6"
+         x="6"
+         y="6" />
+    </clipPath>
+    <clipPath
+       id="clipPath3602">
+      <rect
+         id="rect3604"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3598">
+      <rect
+         id="rect3600"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3594">
+      <rect
+         id="rect3596"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3590">
+      <rect
+         id="rect3592"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3586">
+      <rect
+         id="rect3588"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3582">
+      <rect
+         id="rect3584"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3578">
+      <rect
+         id="rect3580"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3574">
+      <rect
+         id="rect3576"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3570">
+      <rect
+         id="rect3572"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3566">
+      <rect
+         id="rect3568"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3562">
+      <rect
+         id="rect3564"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3558">
+      <rect
+         id="rect3560"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3554">
+      <rect
+         id="rect3556"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3550">
+      <rect
+         id="rect3552"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3546">
+      <rect
+         id="rect3548"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3542">
+      <rect
+         id="rect3544"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3538">
+      <rect
+         id="rect3540"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3534">
+      <rect
+         id="rect3536"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3530">
+      <rect
+         id="rect3532"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3526">
+      <rect
+         id="rect3528"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3522">
+      <rect
+         id="rect3524"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3518">
+      <circle
+         id="circle3520"
+         style="fill:#4285f4"
+         r="128"
+         cy="924.36"
+         cx="128" />
+    </clipPath>
+    <clipPath
+       id="clipPath3514">
+      <rect
+         id="rect3516"
+         style="fill:#fff"
+         y="6"
+         x="6"
+         rx="6"
+         height="84"
+         width="84" />
+    </clipPath>
+    <clipPath
+       id="clipPath3510">
+      <use
+         id="use3512"
+         xlink:href="#2" />
+    </clipPath>
+    <clipPath
+       id="clipPath3506">
+      <rect
+         id="rect3508"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3502">
+      <rect
+         id="rect3504"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3498">
+      <rect
+         id="rect3500"
+         style="fill:#f0f"
+         y="6"
+         x="6"
+         rx="6"
+         height="84"
+         width="84" />
+    </clipPath>
+    <clipPath
+       id="clipPath3494"
+       style="clip-path:url(#9)">
+      <use
+         id="use3496"
+         xlink:href="#3" />
+    </clipPath>
+    <clipPath
+       id="clipPath3490">
+      <rect
+         id="rect3492"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3486">
+      <rect
+         id="rect3488"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3482"
+       style="clip-path:url(#9)">
+      <use
+         id="use3484"
+         xlink:href="#0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3478"
+       style="clip-path:url(#9)">
+      <use
+         id="use3480"
+         xlink:href="#0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3474">
+      <rect
+         id="rect3476"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3470">
+      <rect
+         id="rect3472"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3466">
+      <rect
+         id="rect3468"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3462">
+      <rect
+         id="rect3464"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3458">
+      <rect
+         id="rect3460"
+         style="fill:#fff"
+         width="84"
+         height="84"
+         rx="6"
+         x="6"
+         y="6" />
+    </clipPath>
+    <clipPath
+       id="clipPath3454">
+      <path
+         id="path3456"
+         d="M 0,0 H24 V24 H0 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3450">
+      <rect
+         id="rect3452"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3446">
+      <rect
+         id="rect3448"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3442">
+      <rect
+         id="rect3444"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3438">
+      <use
+         id="use3440"
+         xlink:href="#1" />
+    </clipPath>
+    <clipPath
+       id="clipPath3434">
+      <rect
+         id="rect3436"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3430"
+       style="clip-path:url(#9)">
+      <use
+         id="use3432"
+         xlink:href="#3" />
+    </clipPath>
+    <clipPath
+       id="clipPath3426">
+      <rect
+         id="rect3428"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3422">
+      <rect
+         id="rect3424"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3418">
+      <rect
+         id="rect3420"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3414">
+      <rect
+         id="rect3416"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3410">
+      <rect
+         id="rect3412"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3406">
+      <rect
+         id="rect3408"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3402">
+      <rect
+         id="rect3404"
+         style="fill:#1890d0"
+         rx="4"
+         y="1"
+         x="1"
+         height="46"
+         width="46" />
+    </clipPath>
+    <clipPath
+       id="clipPath3394">
+      <path
+         id="path3396"
+         transform="translate(0 796.36)"
+         d="m 88.12 249.44 c -42.02 -14.14 -73.35 -47.748 -83.985 -90.07 -2.796 -11.124 -3.211 -15.198 -3.208 -31.471 0.002 -10.417 0.209 -15.875 0.732 -19.348 2.808 -18.628 10.519 -37.903 21.385 -53.45 c 3.959 -5.666 8.345 -10.931 9.102 -10.926 0.328 0.002 10.489 18.31 22.579 40.683 12.09 22.373 22.375 41.33 22.854 42.14 0.479 0.802 0.925 2.441 0.99 3.643 0.343 6.316 2.524 14.21 5.642 20.423 2.954 5.887 5.065 8.733 10.435 14.07 6.714 6.67 12.889 10.286 21.732 12.729 3.166 0.874 5.105 1.05 11.575 1.05 8.826 0 12.602 -0.762 19.264 -3.887 2.046 -0.96 3.937 -1.665 4.202 -1.568 0.265 0.097 -11.06 17.665 -25.16 39.04 l -25.639 38.861 l -3.094 0.112 c -2.555 0.093 -4.195 -0.258 -9.409 -2.01 z" />
+      <path
+         id="path3398"
+         d="m 112.36 1051.52 c -10 -1.449 -12.156 -1.82 -12.532 -2.156 -0.249 -0.222 1.738 -3.747 4.55 -8.07 7.166 -11.02 49.772 -74.65 50.26 -75.05 3.575 -2.992 8.635 -8.04 10.575 -10.554 3.362 -4.353 7.558 -12.914 9.07 -18.494 6.193 -22.925 -2.593 -47.15 -21.7 -59.837 l -2.961 -1.966 l 17.02 0.296 c 9.364 0.163 31.17 0.434 48.46 0.603 l 31.435 0.307 l 1.546 4.189 c 2.246 6.086 4.678 15.09 5.935 21.982 1.525 8.36 1.925 28.859 0.739 37.828 -3.081 23.278 -12.813 45.72 -27.802 64.11 -20.476 25.12 -51.46 42.2 -84.15 46.39 -5.312 0.681 -26.646 0.986 -30.446 0.436 z" />
+      <path
+         id="path3400"
+         transform="translate(0 796.36)"
+         d="m 67.99 108.87 c -26.706 -49.3 -34.7 -63.724 -35.756 -64.53 -0.582 -0.443 0.578 -1.795 6.462 -7.529 14.74 -14.365 30.11 -23.775 49.14 -30.08 13.848 -4.588 24.743 -6.299 40.11 -6.299 c 21.31 0 37.805 3.81 56.835 13.13 25.294 12.383 46.19 33.579 58.52 59.35 1.611 3.369 2.93 6.372 2.93 6.675 0 0.56 -10.549 0.495 -71.17 -0.437 l -24.288 -0.374 l -3.931 -1.764 c -6.757 -3.03 -10.646 -3.84 -18.658 -3.868 -5.03 -0.018 -7.979 0.208 -10.316 0.788 -14.508 3.604 -26.28 12.948 -33.29 26.419 -3.585 6.891 -5.247 13.08 -6.332 23.583 l -0.337 3.267 l -9.927 -18.326 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3390">
+      <rect
+         id="rect3392"
+         style="fill:#fff"
+         width="84"
+         height="84"
+         rx="6"
+         x="6"
+         y="6" />
+    </clipPath>
+    <clipPath
+       id="clipPath3386">
+      <rect
+         id="rect3388"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3382">
+      <circle
+         id="circle3384"
+         style="fill:#4285f4"
+         r="128"
+         cy="924.36"
+         cx="128" />
+    </clipPath>
+    <clipPath
+       id="clipPath3378">
+      <rect
+         id="rect3380"
+         style="fill-opacity:0.118"
+         width="32"
+         height="25"
+         x="68"
+         y="20"
+         rx="0.141"
+         ry="0.299" />
+    </clipPath>
+    <clipPath
+       id="clipPath3374">
+      <circle
+         id="circle3376"
+         style="fill:#0e85cd"
+         r="128"
+         cy="922.85"
+         cx="112.26" />
+    </clipPath>
+    <clipPath
+       id="clipPath3370">
+      <path
+         id="path3372"
+         d="m 27.707 56.824 h 82.29 v 139.69 h -82.29" />
+    </clipPath>
+    <clipPath
+       id="clipPath3366">
+      <circle
+         id="circle3368"
+         style="fill:#0f9d58"
+         r="99.31"
+         cy="933.98"
+         cx="132.22" />
+    </clipPath>
+    <clipPath
+       id="clipPath3362">
+      <path
+         id="path3364"
+         d="m 171 132 h 54.625 v 24 h -54.625" />
+    </clipPath>
+    <clipPath
+       id="clipPath3358">
+      <path
+         id="path3360"
+         d="m 148 97 h 77.63 v 24 h -77.62" />
+    </clipPath>
+    <clipPath
+       id="clipPath3354">
+      <circle
+         id="circle3356"
+         style="fill:#f16529"
+         r="128"
+         cy="924.36"
+         cx="128" />
+    </clipPath>
+    <clipPath
+       id="clipPath3350">
+      <path
+         id="path3352"
+         transform="matrix(15.33333 0 0 11.5 415 -125.5)"
+         d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3346">
+      <circle
+         id="circle3348"
+         style="fill:#72a854"
+         r="128"
+         cy="924.36"
+         cx="128" />
+    </clipPath>
+    <clipPath
+       id="clipPath3342">
+      <path
+         id="path3344"
+         d="m 74 56.824 h 129 v 139.69 h -129" />
+    </clipPath>
+    <clipPath
+       id="clipPath3338">
+      <circle
+         id="circle3340"
+         style="fill:#292929;fill-opacity:0.26"
+         r="128"
+         cy="128"
+         cx="128" />
+    </clipPath>
+    <clipPath
+       id="clipPath3334">
+      <rect
+         id="rect3336"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <clipPath
+       id="clipPath3330">
+      <rect
+         id="rect3332"
+         style="fill:#f0f"
+         width="84"
+         height="84"
+         rx="6"
+         x="6"
+         y="6" />
+    </clipPath>
+    <clipPath
+       id="clipPath3326">
+      <rect
+         id="rect3328"
+         style="fill:#1890d0"
+         width="46"
+         height="46"
+         x="1"
+         y="1"
+         rx="4" />
+    </clipPath>
+    <path
+       d="m 245.46 129.52 l -97.89 -96.9 c -5.556 -5.502 -16.222 -11.873 -23.7 -14.16 l -39.518 -12.08 c -7.479 -2.286 -18.1 0.391 -23.599 5.948 l -13.441 13.578 c -5.5 5.559 -14.502 14.653 -20 20.21 l -13.44 13.579 c -5.5 5.558 -8.07 16.206 -5.706 23.658 l 12.483 39.39 c 2.363 7.456 8.843 18.06 14.399 23.556 l 97.89 96.9 c 5.558 5.502 14.605 5.455 20.1 -0.101 l 36.26 -36.63 c 5.504 -5.559 14.503 -14.651 20 -20.21 l 36.26 -36.629 c 5.502 -5.56 5.455 -14.606 -0.101 -20.11 z m -178.09 -50.74 c -7.198 0 -13.03 -5.835 -13.03 -13.03 0 -7.197 5.835 -13.03 13.03 -13.03 7.197 0 13.03 5.835 13.03 13.03 -0.001 7.198 -5.836 13.03 -13.03 13.03 z"
+       id="8" />
+    <use
+       xlink:href="#6"
+       id="7" />
+    <use
+       xlink:href="#8"
+       id="6" />
+    <use
+       xlink:href="#8"
+       id="5" />
+    <use
+       id="4"
+       xlink:href="#5" />
+    <use
+       xlink:href="#2"
+       id="3" />
+    <use
+       xlink:href="#8"
+       id="2" />
+    <use
+       xlink:href="#8"
+       id="1" />
+    <use
+       id="0"
+       xlink:href="#1" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="688"
+     inkscape:window-height="496"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="0.92370266"
+     inkscape:cx="124.10862"
+     inkscape:cy="128"
+     inkscape:window-x="399"
+     inkscape:window-y="240"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g3713" />
+  <g
+     transform="translate(0 -796.36)"
+     id="g4">
+    <g
+       id="g3713"
+       transform="translate(5.4594915,-4.9354261)">
+      <path
+         id="path3715"
+         style="color:#000000;fill:#dcdcdc"
+         d="M -0.43591546,958.45649 C 48.91099,1195.4972 388.42729,941.02549 184.47798,820.53599 105.24609,768.89114 -25.81974,836.54224 -0.43591546,958.45649 z"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g3723"
+         transform="matrix(-1.2520848,0,0,1.2456966,269.00677,740.90825)">
+        <g
+           id="g3725"
+           style="fill:#ffff00">
+          <path
+             id="path3727"
+             d="m 123.66,100.88 a 2.712,11.932 0 0 1 -0.013,1.191 l -2.698,-1.191 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path3729"
+             d="m 62.915,60.2 a 6.508,3.797 0 0 1 -10e-4,0.058 L 56.41,60.2 z"
+             inkscape:connector-curvature="0" />
+        </g>
+        <path
+           id="path3731"
+           style="color:#000000;fill:#ffffff;fill-rule:evenodd"
+           transform="matrix(-1,0,0,1,248.1,-819.68)"
+           d="m 125.58,913.1 c -17.356,0 -31.33,11.07 -31.33,24.818 v 17.799 h -7.161 v 56.25 h 80.7 v -56.25 h -6.628 v -17.799 c 0,-13.749 -13.972,-24.818 -31.33,-24.818 z m 1.121,10.866 h 2.582 c 10.544,0 19.01,8.301 19.03,18.612 l 0.027,13.14 h -40.65 l -0.027,-13.14 c -0.021,-10.311 8.49,-18.612 19.03,-18.612 z m 1.751,46.25 c 4.953,0.148 8.873,3.37 8.879,7.296 -0.005,2.61 -1.765,5.02 -4.619,6.323 l 2.528,8.08 c -1.855,0.585 -3.834,0.906 -5.892,0.906 h -2.582 c -2.057,0 -4.03,-0.321 -5.885,-0.906 l 2.489,-8.14 c -2.784,-1.318 -4.491,-3.696 -4.496,-6.265 0.002,-3.856 3.784,-7.05 8.642,-7.293 l 0.936,-0.003 z"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Astronaut-dark-compact
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Astronaut-dark-compact
+MetacityTheme=Astronaut-dark-compact
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

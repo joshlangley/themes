@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg5400" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16px" width="16px" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs5402">
+  <linearGradient id="linearGradient3156" y2="14" gradientUnits="userSpaceOnUse" x2="5" gradientTransform="translate(2,1)" y1="1" x1="5">
+   <stop id="stop3806" style="stop-color:#fff" offset="0"/>
+   <stop id="stop3808" style="stop-color:#fff;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3159" y2="40" gradientUnits="userSpaceOnUse" x2="144" gradientTransform="matrix(.055556 0 0 .057143 0 -1.1429)" y1="280" x1="144">
+   <stop id="stop3864-8-6-6" style="stop-color:#f0f0f0" offset="0"/>
+   <stop id="stop3866-9-1-7" style="stop-color:#f9f9f9" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata5405">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <path id="path3029" d="m2 1h12v14h-12z" style="opacity:0.41;stroke-linejoin:round;stroke-width:2;color:#bebebe;stroke:#000;fill:none"/>
+  <path id="rect3373-6" style="color:#bebebe;fill:url(#linearGradient3159)" d="m2 1h12v14h-12z"/>
+  <path id="path3799" style="color:#bebebe;fill:url(#linearGradient3156)" d="m2 1v14h12v-14zm1 1h10v12h-10z"/>
+ </g>
+ <g id="layer2">
+  <path id="path26173" style="opacity:.2" d="m4.2891 3v-0.85938h-1.2891v0.8594h1.2891"/>
+  <path id="path26175" style="opacity:.2" d="m5.5391 3v-0.85938h-1.2891v0.8594h1.2891"/>
+  <path id="path26177" style="opacity:.2" d="m6.7891 3v-0.85938h-1.2891v0.8594h1.2891"/>
+  <path id="path26179" style="opacity:.2" d="m8.0391 3v-0.85938h-1.2891v0.8594h1.2891"/>
+  <path id="path26181" style="opacity:.2" d="m9.2891 3v-0.85938h-1.2891v0.8594h1.2891"/>
+  <path id="path26183" style="opacity:.2" d="m13.047 3v-0.85938h-1.2891v0.85938h1.2891"/>
+  <path id="path26203" style="opacity:.2" d="m4.2891 5v-0.85938h-1.2891v0.8594h1.2891"/>
+  <path id="path26205" style="opacity:.2" d="m5.5391 5v-0.85938h-1.2891v0.8594h1.2891"/>
+  <path id="path26207" style="opacity:.2" d="m6.7891 5v-0.85938h-1.2891v0.8594h1.2891"/>
+  <path id="path26209" style="opacity:.2" d="m10.547 5v-0.85938h-1.2891v0.85938h1.2891"/>
+  <path id="path26211" style="opacity:.2" d="m11.797 5v-0.85938h-1.2891v0.85938h1.2891"/>
+  <path id="path26213" style="opacity:.2" d="m13.047 5v-0.85938h-1.2891v0.85938h1.2891"/>
+  <path id="path26219" style="opacity:.2" d="m4.2891 7v-0.85938h-1.2891v0.8594h1.2891"/>
+  <path id="path26221" style="opacity:.2" d="m5.5391 7v-0.85938h-1.2891v0.8594h1.2891"/>
+  <path id="path26223" style="opacity:.2" d="m6.7891 7v-0.85938h-1.2891v0.8594h1.2891"/>
+  <path id="path26225" style="opacity:.2" d="m8.0391 7v-0.85938h-1.2891v0.8594h1.2891"/>
+  <path id="path26227" style="opacity:.2" d="m9.2891 7v-0.85938h-1.2891v0.8594h1.2891"/>
+  <path id="path26231" style="opacity:.2" d="m11.789 7v-0.85938h-1.2891v0.8594h1.289"/>
+  <path id="path26233" style="opacity:.2" d="m13.039 7v-0.85938h-1.2891v0.85938h1.2891"/>
+  <path id="path26241" style="opacity:.2" d="m4.2891 9v-0.85938h-1.2891v0.8594h1.2891"/>
+  <path id="path26243" style="opacity:.2" d="m5.5391 9v-0.85938h-1.2891v0.8594h1.2891"/>
+  <path id="path26245" style="opacity:.2" d="m6.7891 9v-0.85938h-1.2891v0.8594h1.2891"/>
+  <path id="path26249" style="opacity:.2" d="m9.2891 9v-0.85938h-1.2891v0.8594h1.2891"/>
+  <path id="path26251" style="opacity:.2" d="m10.539 9v-0.85938h-1.2891l0.0001 0.8594h1.289"/>
+  <path id="path26253" style="opacity:.2" d="m11.789 9v-0.85938h-1.2891v0.8594h1.289"/>
+  <path id="path3798" style="opacity:.2" d="m8.0391 5v-0.85938h-1.2891v0.8594h1.2891"/>
+  <path id="path3800" style="opacity:.2" d="m11.797 3v-0.85938h-1.2891v0.85938h1.2891"/>
+ </g>
+</svg>

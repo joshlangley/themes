@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 256 256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="activity-stop.svg">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="910"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="0.921875"
+     inkscape:cx="-111.18644"
+     inkscape:cy="128"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     transform="translate(1.176 -1.168)"
+     style="fill:#a9a9a9;fill-opacity:1"
+     id="g4">
+    <path
+       d="m 18.94 123.08 c -27.399 -149.15 194.69 -199.9 243.58 -64.25 46.06 127.81 -124.43 230.14 -208.38 135.32 -17.516 -19.783 -30.17 -43.703 -35.19 -71.08 z"
+       transform="translate(-16.328 23.326)"
+       style="color:#000;fill:#a9a9a9;fill-opacity:1"
+       id="path6" />
+  </g>
+  <g
+     id="0"
+     style="display:block">
+    <path
+       d="M 36.822,5 H 18.181 L 5.002,18.182 V 36.82 L 18.181,50 H 36.823 L 49.999,36.82 V 18.182 L 36.822,5 z M 35.75,35.414 h -15.5 v -15.5 h 15.5 v 15.5 z"
+       transform="matrix(3.3097 0 0 3.40578 34.563 31.347)"
+       style="fill:#fff;display:inline"
+       id="path9" />
+  </g>
+</svg>

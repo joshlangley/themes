@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg5400" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16px" width="16px" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs5402">
+  <linearGradient id="linearGradient4448" gradientUnits="userSpaceOnUse" x2="8" y1="16" x1="8">
+   <stop id="stop3823" style="stop-color:#fff" offset="0"/>
+   <stop id="stop3825" style="stop-color:#fff" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath3852" clipPathUnits="userSpaceOnUse">
+   <path id="path3854" style="block-progression:tb;text-indent:0;color:#000000;text-transform:none" d="m3.5 2s-0.4005-0.0029-0.7812 0.1875c-0.3808 0.1904-0.7188 0.4792-0.7188 1.3125v9s-0.00287 0.40051 0.1875 0.78125c0.1904 0.381 0.4792 0.719 1.3125 0.719h9s0.40051 0.0029 0.78125-0.1875c0.381-0.19 0.719-0.479 0.719-1.312v-9s0.0029-0.40051-0.1875-0.78125c-0.19-0.3808-0.479-0.7188-1.312-0.7188h-9z"/>
+  </clipPath>
+ </defs>
+ <metadata id="metadata5405">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <path id="path4436" style="block-progression:tb;text-indent:0;color:#000000;text-transform:none;fill:url(#linearGradient4448)" d="m1.5 3.5v9c0 2 2 2 2 2h9c2 0 2-2 2-2v-9c0-2-2-2-2-2h-9c-2 0-2 2-2 2z"/>
+  <path id="path3832" d="m1.5 12.5v-9c0-2 2-2 2-2h9c2 0 2 2 2 2v9c0 2-2 2-2 2h-9c-2 0-2-2-2-2z" style="opacity:.41;block-progression:tb;text-indent:0;color:#000000;stroke:#000;text-transform:none;fill:none"/>
+  <path id="path3811" style="opacity:.1;block-progression:tb;text-indent:0;color:#000000;text-transform:none" d="m3.5 2s-0.4005-0.0029-0.7812 0.1875c-0.3808 0.1904-0.7188 0.4792-0.7188 1.3125v1c0-0.8333 0.338-1.1221 0.7188-1.3125 0.3807-0.1904 0.7812-0.1875 0.7812-0.1875h9c0.833 0 1.122 0.338 1.312 0.7188 0.191 0.3807 0.188 0.7812 0.188 0.7812v-1s0.003-0.4005-0.188-0.7812c-0.19-0.3808-0.479-0.7188-1.312-0.7188h-9z"/>
+  <path id="path3850" style="opacity:.05;block-progression:tb;text-indent:0;color:#000000;stroke:#000;stroke-width:2;text-transform:none;fill:none" clip-path="url(#clipPath3852)" d="m3.5 2s-0.4005-0.0029-0.7812 0.1875c-0.3808 0.1904-0.7188 0.4792-0.7188 1.3125v9s-0.0029 0.401 0.1875 0.781c0.1904 0.381 0.4792 0.719 1.3125 0.719h9s0.401 0.003 0.781-0.188c0.381-0.19 0.719-0.479 0.719-1.312v-9s0.003-0.4005-0.188-0.7812c-0.19-0.3808-0.479-0.7188-1.312-0.7188h-9z"/>
+ </g>
+ <g id="layer2">
+  <g id="g3839" transform="translate(-4,-3)">
+   <path id="path5739" style="color:#000000;fill:#fff" d="m12 8c-1.1058 0-2 0.91472-2 2.0312v0.469 0.5h-0.5-0.5v1 2 1h1 4 1v-1-2-1h-0.5-0.5v-0.5-0.46875c0-1.1166-0.894-2.031-2-2.031zm0 1c0.52983 0 1 0.46597 1 1v0.5 0.5h-0.5-1-0.5v-0.5-0.5c0-0.53403 0.47017-1 1-1z"/>
+   <path id="path3970" style="opacity:0.41;color:#000000;stroke:#000;fill:none" d="m12 7.5c-1.3821 0-2.5 1.1458-2.5 2.5312v0.46875h-0.5-0.5v0.5 1 2 1 0.5h0.5 1 4 1 0.5v-0.5-1-2-1-0.5h-0.5-0.5v-0.46875c0-1.3856-1.118-2.531-2.5-2.531zm0 2c0.28784 0 0.5 0.20896 0.5 0.5v0.5h-1v-0.5c0-0.29104 0.21216-0.5 0.5-0.5z"/>
+  </g>
+ </g>
+</svg>
