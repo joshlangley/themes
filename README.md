@@ -1,9 +1,24 @@
 # My Gtk themes collection
 All my favorite Gtk+ themes in a repo.
 
+# Presets
+I have added some preset scripts for some of my favorite themes and some common stacks in general. They are in the `./presets` folder and *must be run from that folder*. Otherwise, wallpapers will break.
+
+Script syntax:
+
+`./<theme>.sh <light/darker/dark> <user/system>`
+
+Where <theme> is the name of the theme, <light/darker/dark> is the theme type, and <user/system> is the install location. If `user`, themes will be installed to `~/.local/share`. If system, the user themes and GNOME extensions app will be installed, and the themes will be installed to `/usr/share`. If you are running into problems with the shell theme or want to tweak/come up with your own theme, use the `system` install. Having a theme installed to both `user` and `system` will not break stuff.
+
+The defaults (that is, if you just run `./<theme>.sh`) are dark user install.
+
+**NOTE:** These scripts currently only work on GNOME. Trying to use them on other DEs may install but not activate the themes.
+
+**ANOTHER NOTE:** Very few of the included wallpapers are my work. Just amazing wallpapers that I get to enjoy and share with others. I will eventually be creating a CREDITs file that will give credit to all these amazing artists from whom I have obtained these wallpapers.
+
 # Some Extras
 
-## THEMES
+## THEMES Extraneous (I recommend using the preset scripts)
 POP!_os
 #sudo add-apt-repository ppa:system76/pop
 #sudo apt-get update
@@ -11,9 +26,6 @@ sudo apt-get install pop-icon-theme pop-gtk-theme pop-sound-theme
 
 Yaru
 sudo apt-get install yaru-theme yaru-theme-shell yaru-theme-icon yaru-theme-sound yaru-theme-gtk #yaru-theme-unity
-
-Arc
-<>
 
 Flat Remix
 Icon: https://www.pling.com/p/1012430/
